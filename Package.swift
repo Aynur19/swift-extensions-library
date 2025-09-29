@@ -18,7 +18,7 @@ let package = Package(
         .target(
             name: "SwiftExtensionsLibrary",
             dependencies: [],
-            path: "Sources"
+            path: "Sources/SwiftExtensionsLibrary"
         ),
     ]
 )
